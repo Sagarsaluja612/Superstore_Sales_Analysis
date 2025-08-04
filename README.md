@@ -82,8 +82,10 @@ This analysis provides:
 
 ---
 
-## ✍️ Author
+## 👤 Author
 
-**Sagar Saluja**  
-MBA in Business Analytics | Data Analyst Intern  
-📫 [LinkedIn](https://www.linkedin.com/in/sagar-saluja/)| 📧 [Email](mailto:your.email@example.com)
+*[Sagar Saluja]*  
+📧 [Sagarsaluja7988@gmail.com]  
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/sagar-saluja-665446216/)]
+
+---
